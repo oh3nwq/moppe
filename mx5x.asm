@@ -90,7 +90,7 @@
 
 ! visit R.A.A.P.R. today http://raapr.org/moppe
 
-/* http://raapr.org/oh3nwq    mailto:oh3nwq@sral.fi
+/* http://raapr.org/oh3nwq    mailto:oh3nwq@raapr.org
  *
  * Hey, I am doing this just for the kicks. I am sharing the code though...
  * The structure of the program is inherited from OH5NXO,
@@ -12448,7 +12448,7 @@ The_End:
  .ascii "stated oblications."
 
 #ifndef FREEBAND  
-  .asciz "(C) 1998-2009 OH3NWQ \n"
+  .asciz "(C) 1998-2014 OH3NWQ \n"
 #else
  .asciz "\n"
 #endif 

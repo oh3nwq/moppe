@@ -47,7 +47,7 @@
 !
 !  Dirty hands on Juha's software
 !  Vesa Tervo, 	 OH3NWQ
-!  oh3nwq@sral.fi
+!  oh3nwq@raapr.org
 !
 !  http://raapr.org/moppe/
 !
@@ -8260,7 +8260,7 @@ legal_stuff:
         .ascii "subject matter during the term of this Agreement. No modification of this \n"
 	.ascii "Agreement will be binding, unless in writing and signed by an authorized  \n"
 	.ascii "representative of each party. For inquiries please contact:  \n"
-        .ascii "Vesa Tervo OH3NWQ, Kuusimaenkatu 14, FIN-33560 Tampere, FINLAND \n\n"
+        .ascii "Vesa Tervo OH3NWQ, FINLAND \n\n"
         .byte 0 
 	.byte TESTCHAR
 	.byte 0
