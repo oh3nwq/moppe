@@ -24,12 +24,12 @@
 
 !# You are free:
 !#
-!#    * to Share — to copy, distribute and transmit the work
-!#    * to Remix — to adapt the work
+!#    * to Share â€” to copy, distribute and transmit the work
+!#    * to Remix â€” to adapt the work
 !#
 !# Under the following conditions:
 !#
-!#    *  Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any 
+!#    *  Attribution â€” You must attribute the work in the manner specified by the author or licensor (but not in any 
 !#	way that suggests that they endorse you or your use of the work).
 !#
 !#       Attribute this work:
@@ -39,25 +39,25 @@
 !#       attributed for re-use. You can use the HTML here to cite the work. Doing so will also include metadata 
 !#       on your page so that others can find the original work as well.
 !#
-!#    *  Noncommercial — You may not use this work for commercial purposes.
+!#    *  Noncommercial â€” You may not use this work for commercial purposes.
 !#
-!#    *  Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only 
+!#    *  Share Alike â€” If you alter, transform, or build upon this work, you may distribute the resulting work only 
 !#     	under the same or similar license to this one. 
 !#
 !# With the understanding that:
 !#
-!#    * Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
+!#    * Waiver â€” Any of the above conditions can be waived if you get permission from the copyright holder.
 !#
-!#    * Public Domain — Where the work or any of its elements is in the public domain under applicable law, that 
+!#    * Public Domain â€” Where the work or any of its elements is in the public domain under applicable law, that 
 !#      status is in no way affected by the license.
 !#
-!#    * Other Rights — In no way are any of the following rights affected by the license:
+!#    * Other Rights â€” In no way are any of the following rights affected by the license:
 !#          o Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
 !#          o The author's moral rights;
 !#          o Rights other persons may have either in the work itself or in how the work is used, such as publicity or 
 !#	     privacy rights.
 !#
-!#    * Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The 
+!#    * Notice â€” For any reuse or distribution, you must make clear to others the license terms of this work. The 
 !best 
 !#      way to do this is with a link to this web page.
 
@@ -66,7 +66,7 @@
 ! year 2004:
 ! This text is edited in an xbox running gentooX linux.
 ! the code can be compiled in xbox too (and has been done many times)
-! Thanks to �$ (greek letter mu followed by $) for making such a cheap computer to run Linux.
+! Thanks to µ$ (greek letter mu followed by $) for making such a cheap computer to run Linux.
 ! Fully working Pentium III 733 with 10GB HD for 50e (bought from local ebay-alike)
 !
 ! IF YOU MODIFY THIS CODE - SHARE ALSO THE MODIFIED SOURCE CODE WITH YOUR BINARIERS 
@@ -389,32 +389,29 @@
  * 1.623 990323 released on oh3tr.ele.tut.fi
 
 !___________________md5x____________me59______________ NWQ
-!    S  = simplex  = simplex
-! D  = - 1.6  = -  6.0
-! D   F  = + 1.6  = +  6.0
-! D<  = - 7.6  = - 28.0
-! D<  F  = + 7.6  = + 28.0
+!          S        = simplex      = simplex
+!       D           = - 1.6        = -  6.0
+!       D   F       = + 1.6        = +  6.0
+!       D<          = - 7.6        = - 28.0
+!       D<  F       = + 7.6        = + 28.0
 
 !SHIFT20 
 !___________________md5x_____________ NWQ
-!          S            = simplex   
-!       D               = - 1.6         
-!       D   F           = + 1.6 
-!       D<              = - 2.0          
-!       D<  F           = + 2.0 
-
-
-!
+!          S        = simplex   
+!       D           = - 1.6         
+!       D   F       = + 1.6 
+!       D<          = - 2.0          
+!       D<  F       = + 2.0 
 
 ! CU59
 ! RST    R=repeater channels enabled in scan
-!  S=simplex channels enabled in scan
-!  T=memory channels enabled in scan
+!        S=simplex channels enabled in scan
+!        T=memory channels enabled in scan
 !
 ! CU53
 ! TC   N    T=repeater channels enabled in scan
-!  C=simplex channels enabled in scan
-!  N=memory channels enabled in scan
+!           C=simplex channels enabled in scan
+!           N=memory channels enabled in scan
 !
 
 
