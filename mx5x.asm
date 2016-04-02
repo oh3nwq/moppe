@@ -1,10 +1,10 @@
-#define VNUMBER "3.182"
+#define VNUMBER "3.183"
 
 !#define BETA "THIS IS NOT BETA"
 !#define BETA "x.xxx"
 
-#define COPYRIGHT "(C) 1999, 2000, 2003, 2004, 2005, 2006, 2008, 2009, 2011, 2014 OH3NWQ and 1997, 1998, 2000 OH5NXO"
-#define DATE "181214"
+#define COPYRIGHT "(C) 1999, 2000, 2003, 2004, 2005, 2006, 2008, 2009, 2011, 2014, 2016 OH3NWQ and 1997, 1998, 2000 OH5NXO"
+#define DATE "020416"
 
 #define PROGRAMMERS_NOTE "\n Join the #moppe channel on IRCnet - I won't be there \n"
 
@@ -22,14 +22,14 @@
 ! http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Attribution-NonCommercial-ShareAlike 3.0 Unported
 
-!# You are free:
-!#
-!#    * to Share â€” to copy, distribute and transmit the work
-!#    * to Remix â€” to adapt the work
+!# You are free to:
+!#   Share — copy and redistribute the material in any medium or format
+!#   Adapt — remix, transform, and build upon the material
+!#   The licensor cannot revoke these freedoms as long as you follow the license terms.
 !#
 !# Under the following conditions:
 !#
-!#    *  Attribution â€” You must attribute the work in the manner specified by the author or licensor (but not in any 
+!#    *  Attribution - You must attribute the work in the manner specified by the author or licensor (but not in any 
 !#	way that suggests that they endorse you or your use of the work).
 !#
 !#       Attribute this work:
@@ -39,26 +39,25 @@
 !#       attributed for re-use. You can use the HTML here to cite the work. Doing so will also include metadata 
 !#       on your page so that others can find the original work as well.
 !#
-!#    *  Noncommercial â€” You may not use this work for commercial purposes.
+!#    *  Noncommercial - You may not use this work for commercial purposes.
 !#
-!#    *  Share Alike â€” If you alter, transform, or build upon this work, you may distribute the resulting work only 
+!#    *  Share Alike - If you alter, transform, or build upon this work, you may distribute the resulting work only 
 !#     	under the same or similar license to this one. 
 !#
 !# With the understanding that:
 !#
-!#    * Waiver â€” Any of the above conditions can be waived if you get permission from the copyright holder.
+!#    * Waiver - Any of the above conditions can be waived if you get permission from the copyright holder.
 !#
-!#    * Public Domain â€” Where the work or any of its elements is in the public domain under applicable law, that 
+!#    * Public Domain - Where the work or any of its elements is in the public domain under applicable law, that 
 !#      status is in no way affected by the license.
 !#
-!#    * Other Rights â€” In no way are any of the following rights affected by the license:
+!#    * Other Rights - In no way are any of the following rights affected by the license:
 !#          o Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
 !#          o The author's moral rights;
 !#          o Rights other persons may have either in the work itself or in how the work is used, such as publicity or 
 !#	     privacy rights.
 !#
-!#    * Notice â€” For any reuse or distribution, you must make clear to others the license terms of this work. The 
-!best 
+!#    * Notice - For any reuse or distribution, you must make clear to others the license terms of this work. The best 
 !#      way to do this is with a link to this web page.
 
 
@@ -92,7 +91,7 @@
 
 /* http://raapr.org/oh3nwq    mailto:oh3nwq@raapr.org
  *
- * Hey, I am doing this just for the kicks. I am sharing the code though...
+ * Hey, I am did this just for the kicks. 
  * The structure of the program is inherited from OH5NXO,
  * without him there wouldn't be any ham software for this radio either.
 
@@ -111,7 +110,7 @@
  *    of any direct or indirect consequencies caused by 
  *    using this program. Using this program indicates that the
  *    user accepts this statement.
- *    Vesa Tervo OH3NWQ  <oh3nwq@sral.fi>
+ *    Vesa Tervo OH3NWQ  <oh3nwq@raapr.org>
  
  * Non-error free software statement:
  *  - Even though this software might have been tested, there is 
@@ -147,6 +146,8 @@
 
  * 3.18
  - bug fix on APRS
+ - updated the the text to follow the current http://creativecommons.org/licenses/by-nc-sa/3.0/ license
+ - correction to email addresses
 
  * 3.17
  - created a APRS version which defaults to 432.500 on boot
